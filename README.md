@@ -77,6 +77,22 @@ WRITE: / 'Desenvolvedor SAP ABAP com 8+ anos de experiência',
 - Automação de processos fiscais
 - Integrações com sistemas legados
 
+
+## 📊 Backend
+[![My Skills](https://skillicons.dev/icons?i=arduino,cs,nodejs,python)](https://skillicons.dev)
+
+## 📊 Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,firebase,mongodb)](https://skillicons.dev)
+
+## 📊 Plataformas & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,vscode,eclipse,postman,sap,fastapi,windows,linux,md,notion,npm,wordpress)](https://skillicons.dev)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChristopherNicolasSMM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherNicolasSMM&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherNicolasSMM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 ## 🌐 Contato
 - LinkedIn: [Christopher Nicolas](https://www.linkedin.com/in/christophernicolassmm/)
 - E-mail: christopher.nicolas.mauricio@gmail.com
