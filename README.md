@@ -85,7 +85,7 @@ WRITE: / 'Desenvolvedor SAP ABAP com 8+ anos de experiência',
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,firebase,mongodb)](https://skillicons.dev)
 
 ## 📊 Plataformas & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=https%3A%2F%2Fgithub.com%2FChristopherNicolasSMM%2FChristopherNicolasSMM%2Fblob%2Fmain%2Fsap.png,raspberrypi,vscode,eclipse,postman,fastapi,windows,linux,md,notion,npm,wordpress,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=[https%3A%2F%2Fgithub.com%2FChristopherNicolasSMM%2FChristopherNicolasSMM%2Fblob%2Fmain%2Fsap.png](https://github.com/ChristopherNicolasSMM/ChristopherNicolasSMM/blob/main/sap.png),raspberrypi,vscode,eclipse,postman,fastapi,windows,linux,md,notion,npm,wordpress,cs)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChristopherNicolasSMM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
