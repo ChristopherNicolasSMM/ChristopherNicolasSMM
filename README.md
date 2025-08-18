@@ -87,6 +87,10 @@ WRITE: / 'Desenvolvedor SAP ABAP com 8+ anos de experiência',
 ## 📊 Plataformas & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=[https%3A%2F%2Fgithub.com%2FChristopherNicolasSMM%2FChristopherNicolasSMM%2Fblob%2Fmain%2Fsap.png](https://github.com/ChristopherNicolasSMM/ChristopherNicolasSMM/blob/main/sap.png),raspberrypi,vscode,eclipse,postman,fastapi,windows,linux,md,notion,npm,wordpress,cs)](https://skillicons.dev)
 
+
+
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,vscode,eclipse,postman,fastapi,windows,linux,md,notion,npm,wordpress,cs_https%3A%2F%2Fgithub.com%2FChristopherNicolasSMM%2FChristopherNicolasSMM%2Fblob%2Fmain%2Fsap.png)](https://skillicons.dev)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChristopherNicolasSMM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherNicolasSMM&theme=tokyonight&hide_border=false)<br/>
