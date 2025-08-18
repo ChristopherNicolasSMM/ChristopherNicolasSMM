@@ -7,7 +7,6 @@
 [![SAP PI/PO](https://img.shields.io/badge/SAP_PI%2FPO-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
 [![SAP CAP](https://img.shields.io/badge/SAP_CAP-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
 [![SAP RAP](https://img.shields.io/badge/SAP_RAP-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
-[![Classic ABAP](https://img.shields.io/badge/Classic_ABAP-darkblue?logo=sap)](https://www.linkedin.com/in/christophernicolassmm/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
 
 
