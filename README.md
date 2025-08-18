@@ -1,13 +1,16 @@
 # Christopher Nicolas - Consultor SAP ABAP/PO/PI
 
-![Software Engineer ABAP](https://img.shields.io/badge/Software%20Engineer-ABAP-blue?style=for-the-badge)
-![Specialist in Integrations](https://img.shields.io/badge/Specialist%20in-Integrations-green?style=for-the-badge)
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-003D76?style=for-the-badge&logo=sap&logoColor=white)
-![SAP PI/PO](https://img.shields.io/badge/SAP%20PI%2FPO-003D76?style=for-the-badge&logo=sap&logoColor=white)
-![SAP CAP](https://img.shields.io/badge/SAP%20CAP-003D76?style=for-the-badge&logo=sap&logoColor=white)
-![SAP RAP](https://img.shields.io/badge/SAP%20RAP-003D76?style=for-the-badge&logo=sap&logoColor=white)
-![Classic ABAP](https://img.shields.io/badge/Classic%20ABAP-darkblue?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
+
+[![Software Engineer ABAP](https://img.shields.io/badge/Software_Engineer-ABAP-blue?logo=sap)](https://www.linkedin.com/in/christophernicolassmm/)
+[![Specialist in Integrations](https://img.shields.io/badge/Specialist_in-Integrations-green?logo=sap)](https://www.linkedin.com/in/christophernicolassmm/)
+[![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
+[![SAP PI/PO](https://img.shields.io/badge/SAP_PI%2FPO-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
+[![SAP CAP](https://img.shields.io/badge/SAP_CAP-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
+[![SAP RAP](https://img.shields.io/badge/SAP_RAP-003D76?logo=sap&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
+[![Classic ABAP](https://img.shields.io/badge/Classic_ABAP-darkblue?logo=sap)](https://www.linkedin.com/in/christophernicolassmm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophernicolassmm/)
+
+
 
 ## 👨‍💻 Sobre Mim
 
