@@ -21,7 +21,7 @@ DATA: lv_nome TYPE string VALUE 'Christopher Nicolas',
       lv_localizacao TYPE string VALUE 'Ribeirão Preto - SP',
       lv_email TYPE string VALUE 'christopher.nicolas.mauricio@gmail.com'.
 
-WRITE: / 'Desenvolvedor SAP ABAP com 8+ anos de experiência',
+WRITE: / 'Desenvolvedor SAP ABAP com 10+ anos de experiência',
        / 'Especialista em soluções fiscais e tributárias (SPED, NFe)',
        / 'Atuação em projetos de integração (PI/PO) e customizações ABAP'.
 ```
