@@ -61,7 +61,7 @@ WRITE: / 'Desenvolvedor SAP ABAP com 10+ anos de experiência',
 - Alocação diversos projetos na conta Stellantis (AR-BR) (Fiat, Mareli, Iveco, CNH, Jeep, Chrysler, etc 
 - Alocação Toyota (AR-BR) e Toyota plantonista PI/PO
 
-### **H2 CONSULT SAP** (2017 - 2021)
+### **H2 CONSULT SAP** (2016 - 2021)
 **Consultor SAP ABAP/PI/Fiscal**
 - Implementação de SPED (ECD, ECF, EFD, REINF)
 - Upgrade GRC/NFe Outbound 4.0
